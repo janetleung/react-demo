@@ -21,3 +21,8 @@
 - redux-actions
 - axios
 - antd
+
+## npm 安装
+- npm install react-quick-start-cli
+- react-quick-start create <dir>
+  eg. react-quick-start create my-react-demo
