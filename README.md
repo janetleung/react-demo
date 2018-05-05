@@ -1,6 +1,6 @@
-# react-demo
+# react-init
 
-集成了一般 react 项目所需依赖，开发、生产环境代码打包
+集成了一般 react 项目所需依赖(react + react-router + redux)，开发、生产环境代码打包
 
 ## 概述
 - 修改代码自动刷新页面
